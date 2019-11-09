@@ -1,0 +1,96 @@
+Charge text	chrage code	Charge description								
+register fee / tunnel fee / parking fee	ADD	Additional Costs								
+speedpost freight cost	FRT	Shipping Charge								
+additional tools	ADT	Additional Tools								
+airlines charges	ALC	Airline charges								
+additional costs	ADD	Additional Costs								
+box	BOX	Box Purchase								
+boxes	BOX	Box Purchase								
+cargo box	BOX	Box Purchase								
+cargo inspection	INP	Inspection								
+carton box	BOX	Box Purchase								
+container	CNT	Container								
+coppergate box	BOX	Box Purchase								
+courier charged for delivery document to	DOC	Document Fee								
+credit	CRE	Credit								
+Customs Declaration	DEF	Destination Entry Fee (Vat)								
+coppergate box	BOX	Box Purchase								
+declaration fees to government	DFE	Declaration Fees to Government								
+dhl freight charges	TRP	Transportation								
+empty tray	EMP	Empty Tray								
+extra manhour	OT	Over Time								
+empty tray	EMP	Empty Tray								
+freight charges	SHP	Shipping								
+freight cost	SHP	Shipping								
+fuel surcharge	FSC	Fuel Surcharge								
+freight on board	FOB	Freight on board								
+handling in/out - machine	IOH	Handling In/Out Machine								
+humidity indicator	ADT	Additional Tools								
+humidity indicator	MI2	Misc. (No VAT)								
+import license	ILC	Imoprt Licence								
+inspection	INP	Inspection								
+insurance	INS	Insurance								
+handling charge	IHL	Inbound Handling								
+inbound handling	IHL	Inbound Handling								
+inspection	INP	Inspection								
+label	PRL	Printer Labels								
+labeling	LBL	Labeling								
+license	LCN	License								
+loading charge	LD	Loading								
+local delivery	DAS	Delivery Area Service								
+local pickup	PI2	Pickup Charge (NO VAT)								
+management fee	AF	Admin Fee								
+manhour	OT	Over Time								
+mnf label covering	MNF	Maufacturer Label Covering								
+mnf label covering	MNF	Maufacturer Label Covering								
+ot	OT	Over Time								
+overtime charges	OT	Over Time								
+out of area	OOA	Out Of Area								
+outbound handling	OHL	Outbound Handling								
+packing materials	PCK	Packing Materials								
+palletization	PLT	Pallettization								
+parking fee / gate charges	GAT	Gate Charges								
+parking fee / gate charges / tunnel fee	GAT	Gate Charges								
+pob for thc / gate charge/tunnel toll	GAT	Gate Charges								
+pob for thc / gate charge/tunnel toll	GAT	Gate Charges								
+pob for thc / gate charge/tunnel toll	GAT	Gate Charges								
+postage fee (speedpost)	POS	Postal Fee								
+prepaid freight charges	SHP	Shipping								
+printer label	PRL	Printer Labels								
+printer ribbon	PRR	Printer Ribbon								
+receiving inspection	RIN	Receiving Inspection								
+register fee / gate charges / tunnel fee	GAT	Gate Charges								
+register fee / tunnel fee / parking fee	ADD	Additional Costs								
+register fee/tunnel fee/parking fee	ADD	Additional Costs								
+register fee/tunnel fee/parking fee	TRP	Transportation								
+remove label	REL	Remove Label								
+repack	RPK	Repacking								
+repacking	RPK	Repacking								
+repacking charges	RPK	Repacking								
+ribbon	PRR	Printer Ribbon								
+register fee / tunnel fee / parking fee	ADD	Additional Costs								
+register fee / tunnel fee / parking fee	TRP	Transportation								
+scrap	SCR	Scrap fee								
+scrap fee	SCR	Scrap fee								
+shipping costs	ADD	Additional Costs								
+speedpost freight charges	FRT	Shipping Charge								
+speedpost freight charges	FRT	Shipping Charge								
+stockcount	OT	Over Time								
+stocktaking	STK	Stocktaking								
+storage	STR	Storage								
+strapping tape	PAK	PACKAGING								
+strapping tape	PAK	PACKAGING								
+speedpost freight cost	FRT	Shipping Charge								
+speedpost freight cost	FRT	Shipping Charge								
+thc	TE1	THC								
+thermal transfer label	PRL	Printer Labels								
+thermal transfer ribbon	PRR	Printer Ribbon								
+tunnel fee / parking fee	ADD	Additional Costs								
+tunnel fee / parking fee	ADD	Additional Costs								
+tunnel toll	ADD	Additional Costs								
+tunnel toll	ADD	Additional Costs								
+unloading	UNL	Unload								
+wooden crate service	HA2	Handling Fee (No VAT)								
+zebra printer label	PRL	Printer Labels								
+zebra printer ribbon	PRR	Printer Ribbon								
+container	CNT	Container								
